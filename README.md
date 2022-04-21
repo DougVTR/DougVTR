@@ -1,0 +1,5 @@
+- 👋 Olá, eu sou o @DougVTR.
+- 👀 tenho interesse em programação WEB, utilizando JavaScript, CSS e HTML.
+- 🌱 Estou aprofundando meus conhecimentos em programação web, mais especificamente em JavaScript.
+- 💞️ Estou procurando ingressar no mercado de tecnologia e aumentar meus conhecimentos em programação
+- e desenvolvimento de softwares.

@@ -1,8 +1,7 @@
 - 👋 Olá, eu sou o @DougVTR.
-- 👀 tenho interesse em programação WEB, utilizando JavaScript, CSS e HTML.
-- 🌱 Estou aprofundando meus conhecimentos em programação web, mais especificamente em JavaScript.
+- 👀 tenho interesse em programação WEB.
 - 💞️ Estou procurando ingressar no mercado de tecnologia e aumentar meus conhecimentos em programação e desenvolvimento de softwares.
-- <div align="center">
+<div align="center">
   <a href="https://github.com/DougVTR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DougVTR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougVTR&layout=compact&langs_count=7&theme=dracula"/>

@@ -1,6 +1,5 @@
 - 👋 Olá, eu sou o @DougVTR.
 - 👀 tenho interesse em programação WEB.
-- 💞️ Estou procurando ingressar no mercado de tecnologia e aumentar meus conhecimentos em programação e desenvolvimento de softwares.
 <div align="center">
   <a href="https://github.com/DougVTR">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=DougVTR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
